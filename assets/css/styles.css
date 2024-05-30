@@ -1,0 +1,36 @@
+.seller{
+    margin:12px auto;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.decorator
+{
+    color:#FFFFFF; 
+    text-decoration: none;
+}
+
+.selection
+{
+    display: inline;
+    margin-right: -40px
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.underline{
+    height:5px;
+    width:200px;
+    background-color:red;
+    border-radius:20px;
+}
+
+.back{
+    background-color: #f2f2f2;
+}
+
